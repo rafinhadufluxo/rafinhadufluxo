@@ -17,13 +17,13 @@
 <img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
 <h2>⚡️ Alguns fatos rápidos</h2>
 <ul>
-    
-    <li>👨‍💻 A maioria dos meus projetos está disponível no <a href="https://github.com/mazarafa">Github</a></li>
-    <li>💬 Passo o tempo codificando e criando coisas novas, especialmente quando elas podem ajudar a mim ou a outro ser humano de alguma forma.</li>
-    <li> 🔎 Pesquiso sobre Computação Musical e o seu processamento de audio.</li>
-    <li>📙Confira meu <a href="https://mazarafa.github.io/">currículo</a>.</li>
-    <li>🎉 Curiosidade: Sou DJ nas horas vagas!</li>
-</ul>
+    <li>👨‍💻 A maioria dos meus projetos está disponível no <a href="https://github.com/mazarafa">Github</a></li>	   
+    <li>💬 Passo o tempo codificando e criando coisas novas, especialmente quando elas podem ajudar a mim ou a outro ser humano de alguma forma.</li>	    
+    <li> 🔎 Pesquiso sobre Computação Musical e o seu processamento de audio.</li>	    	    <li>📙Confira meu <a href="https://mazarafa.github.io/">currículo</a>.</li>
+    <li>🎉 Curiosidade: Sou DJ nas horas vagas!</li>	  
+</ul>	</ul>
+
+
 <h2>🚀 Algumas ferramentas que uso</h2>
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
