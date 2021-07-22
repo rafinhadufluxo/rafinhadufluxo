@@ -1,6 +1,6 @@
 
 
-<h2>Hey 👋, I'm <a href="https://mazarafa.github.io/">Rafinha</a></h2>
+<h2>Hey 👋, I'm <a href="https://mazarafa.github.io/">Rafa Lup</a></h2>
 <p>Atualmente acadêmica do Curso de Ciência da Computação na Universidade Federal da Fronteira Sul, campus Chapecó.            
     Desenvolvedora web e Mobile, pythonista e integrador de tecnologia 🎯.
 </p>
