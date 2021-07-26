@@ -2,7 +2,6 @@
 
 <h2>Hey 👋, I'm <a href="https://mazarafa.github.io/">Rafa Lup</a></h2>
 <p>Atualmente acadêmica do Curso de Ciência da Computação na Universidade Federal da Fronteira Sul, campus Chapecó.            
-    Desenvolvedora web e Mobile, pythonista e integrador de tecnologia 🎯.
 </p>
 <p>
     <a href="https://rafalup.github.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-rafalup.github.io-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://rafalup.github.io/" target="_blank" rel="noreferrer" alt="Website Badge"></a> 
@@ -17,9 +16,9 @@
 <img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
 <h2>⚡️ Alguns fatos rápidos</h2>
 <ul>
-    <li>👨‍💻 A maioria dos meus projetos está disponível no <a href="https://github.com/mazarafa">Github</a></li>	   
+    <li>👨‍💻 A maioria dos meus projetos está disponível no <a href="https://github.com/rafalup">Github</a></li>	   
     <li>💬 Passo o tempo codificando e criando coisas novas, especialmente quando elas podem ajudar a mim ou a outro ser humano de alguma forma.</li>	    
-    <li> 🔎 Pesquiso sobre Computação Musical e o seu processamento de audio.</li>	    	    <li>📙Confira meu <a href="https://mazarafa.github.io/">currículo</a>.</li>
+    <li> 🔎 Pesquiso sobre Computação Musical e o seu processamento de audio.</li>	    	    <li>📙Confira meu <a href="https://rafalup.github.io/">currículo</a>.</li>
     <li>🎉 Curiosidade: Sou DJ nas horas vagas!</li>	  
 </ul>	</ul>
 
