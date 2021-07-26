@@ -5,9 +5,9 @@
     Desenvolvedora web e Mobile, pythonista e integrador de tecnologia 🎯.
 </p>
 <p>
-    <a href="https://mazarafa.github.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-mazarafa.github.io-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://mazarafa.github.io/" target="_blank" rel="noreferrer" alt="Website Badge"></a> 
+    <a href="https://rafalup.github.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-rafalup.github.io-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://rafalup.github.io/" target="_blank" rel="noreferrer" alt="Website Badge"></a> 
 <!--     <a href="https://medium.com/@mazarafa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@mazarafa-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/mazarafa" alt="Medium Badge"></a>  -->
-    <a href="https://www.linkedin.com/in/mazarafa/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@mazarafa-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/mazarafa/" alt="LinkedIn Badge"></a> 
+    <a href="https://www.linkedin.com/in/rafalup/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@rafalup-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/rafalup/" alt="LinkedIn Badge"></a> 
 <!--     <a href="https://open.spotify.com/user/avellar_7" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@avellar_7%20-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/avellar_7" alt="Spotify Badge"></a> -->
 <!--     <a href="https://facebook.com/mazarafa7" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@mazarafa-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/mazarafa7" alt="Facebook Badge"></a> 
     <a href="https://instagram.com/mazarafa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@mazarafa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mazarafa/" alt="Instagram Badge"></a> -->
