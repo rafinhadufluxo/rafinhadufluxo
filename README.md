@@ -4,7 +4,7 @@
 <p>Atualmente acadêmica do Curso de Ciência da Computação na Universidade Federal da Fronteira Sul, campus Chapecó.            
 </p>
 <p>
-    <a href="https://rafalup.github.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-rafalup.github.io-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://rafalup.github.io/" target="_blank" rel="noreferrer" alt="Website Badge"></a> 
+    <a href="https://rafinhadufluxo.github.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-rafalup.github.io-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://rafalup.github.io/" target="_blank" rel="noreferrer" alt="Website Badge"></a> 
 <!--     <a href="https://medium.com/@mazarafa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@mazarafa-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/mazarafa" alt="Medium Badge"></a>  -->
     <a href="https://www.linkedin.com/in/rafalup/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@rafalup-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/rafalup/" alt="LinkedIn Badge"></a> 
 <!--     <a href="https://open.spotify.com/user/avellar_7" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@avellar_7%20-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/avellar_7" alt="Spotify Badge"></a> -->
