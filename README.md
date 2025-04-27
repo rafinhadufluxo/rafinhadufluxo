@@ -1,7 +1,7 @@
 
 
 <h2>Hey 👋, I'm <a href="https://rafinhadufluxo.github.io/">Rafinha</a></h2>
-<p>Formada em Ciência da Computação pela Universidade Federal da Fronteira Sul, campus Chapecó. Atualmente trabalho como Developer júnior e consumidora de café 😂"           
+<p>Formada em Ciência da Computação pela Universidade Federal da Fronteira Sul, campus Chapecó. Atualmente trabalho como Developer júnior e consumidora de Capuccino expresso.
 </p>
 <p>
     <a href="https://rafinhadufluxo.github.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-rafalup.github.io-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://rafalup.github.io/" target="_blank" rel="noreferrer" alt="Website Badge"></a> 
