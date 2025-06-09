@@ -1,7 +1,7 @@
 
 
 <h2>Hey 👋, I'm <a href="https://rafinhadufluxo.github.io/">Rafinha</a></h2>
-<p>Formada em Ciência da Computação pela Universidade Federal da Fronteira Sul, campus Chapecó. Atualmente trabalho como Developer júnior e consumidora de Capuccino expresso.
+<p>Formada em Ciência da Computação e atualmente trabalho como Developer júnior e consumidora de Capuccino expresso.
 </p>
 
 
