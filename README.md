@@ -10,7 +10,7 @@
 <ul>
     <li>👨‍💻 A maioria dos meus projetos está disponível no <a href="https://github.com/rafinhadufluxo">Github</a></li>	   
     <li>💬 Passo o tempo codificando e criando coisas novas, especialmente quando elas podem ajudar a mim ou a outro ser humano de alguma forma.</li>	    
-    <li> 🔎 Pesquiso sobre Computação Musical e o seu processamento de audio.</li>	    	    <li>📙Confira meu <a href="https://rafinhadufluxo.github.io/">currículo</a>.</li>
+ <!--   <li> 🔎 Pesquiso sobre Computação Musical e o seu processamento de audio.</li>	    	    <li>📙Confira meu <a href="https://rafinhadufluxo.github.io/">currículo</a>.</li> -->
     <li>🎉 Curiosidade: Sou DJ nas horas vagas!</li>	  
 </ul>	</ul>
 
